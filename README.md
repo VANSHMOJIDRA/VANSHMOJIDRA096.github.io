@@ -152,7 +152,7 @@ Shah & Anchor Kutchhi Engineering College (SAKEC)
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- 💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/vansh-mojidra-80abbb320/)
 - 🐱 **GitHub:** [VANSHMOJIDRA_096](https://github.com/VANSHMOJIDRA_096)
 - 📧 **Email:** vanshmojidrawork@gmail.com
 - 📱 **Phone:** +91-9820701155
@@ -175,27 +175,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 📊 GitHub Stats
 
-![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VANSHMOJIDRA_096&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VANSHMOJIDRA_096&layout=compact&theme=radical)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VANSHMOJIDRA_096&theme=radical)
-
----
 
 <div align="center">
 
-### ⭐ Star this repo if you like it!
 
-**Made with ❤️ and AI by Vansh Mojidra**
-
-[![GitHub followers](https://img.shields.io/github/followers/VANSHMOJIDRA_096?style=social)](https://github.com/VANSHMOJIDRA_096)
-[![GitHub stars](https://img.shields.io/github/stars/VANSHMOJIDRA_096/VANSHMOJIDRA_096.github.io?style=social)](https://github.com/VANSHMOJIDRA_096/VANSHMOJIDRA_096.github.io)
 
 </div>
